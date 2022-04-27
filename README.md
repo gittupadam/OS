@@ -1,3 +1,3 @@
 # OS
 
-mat_add -> matrix addition using process and shared memory - VSK
+mat_add.c -> matrix addition using process and shared memory - VSK
